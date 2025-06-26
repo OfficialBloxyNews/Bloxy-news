@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>The Bloxy News</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>🗞️ The Bloxy News</h1>
+    <p>Serving BloxTown and surrounding districts since 1984</p>
+    <nav>
+      <a href="#">Home</a>
+      <a href="#">Latest News</a>
+      <a href="#">Submit a Tip</a>
+      <a href="#">About</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="featured-article">
+      <h2>SEVEN GONE — GEARSHIFT GAS LINKED TO STRING OF DISAPPEARANCES</h2>
+      <p><strong>June 23, 2025 — Grandville, OH</strong></p>
+      <p>Emily Middleton is the 7th person to vanish near GearShift Gas in just 3 years—why is no one talking about it?</p>
+      <a href="#">Read More →</a>
+    </section>
+
+    <section class="article-list">
+      <article>
+        <h3>“He Knows What Happened” — Husband Accuses Clerk in Disappearance</h3>
+        <p>Jerry Middleton believes the GearShift Gas clerk is hiding something in his wife’s case...</p>
+        <a href="#">Read Article</a>
+      </article>
+
+      <article>
+        <h3>GearShift Gas Issues Statement, Denies All Allegations</h3>
+        <p>The company calls the claims “baseless and harmful” amid growing protests and boycotts...</p>
+        <a href="#">Read Article</a>
+      </article>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 The Bloxy News | Made in BloxTown, RB</p>
+  </footer>
+</body>
+</html>
